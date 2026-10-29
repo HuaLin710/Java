@@ -1,0 +1,6 @@
+#Properties Example
+#Fri Nov 29 16:06:57 CST 2024
+capacity=10
+language=kr
+size=10
+timeout=30

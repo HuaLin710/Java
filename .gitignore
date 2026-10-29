@@ -1,0 +1,35 @@
+# Compiled Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+
+# Generated I/O and serialization output
+*.ser
+*.dat
+*.bak
+
+# Build and IDE
+bin/
+out/
+build/
+target/
+.idea/
+*.iml
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
